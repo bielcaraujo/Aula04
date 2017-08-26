@@ -48,6 +48,7 @@ public class HomeServlet extends HttpServlet {
             out.println("<h3><a href='tabuada'> "+"Gerar tabuada</a>"+"</h3>");
             out.println("</body>");
             out.println("</html>");
+            //modificação feita no Git
         }
     }
 
