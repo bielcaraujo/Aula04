@@ -49,6 +49,7 @@ public class HomeServlet extends HttpServlet {
             out.println("</body>");
             out.println("</html>");
             //modificação feita no Git
+            //modificação feita no Netbeans
         }
     }
 
